@@ -44,4 +44,4 @@ docker-compose.yml
 # Ignore coverage files
 /coverage
 .tool-versions
-.INFO
+INFO.md
